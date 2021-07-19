@@ -1,0 +1,13 @@
+D:\Personal files\Advance C#\Codes\video8\ThermostatEventsApp-master\ThermostatEventsApp-master\ThermostatEventsApp\bin\Debug\netcoreapp3.0\ThermostatEventsApp.exe
+D:\Personal files\Advance C#\Codes\video8\ThermostatEventsApp-master\ThermostatEventsApp-master\ThermostatEventsApp\bin\Debug\netcoreapp3.0\ThermostatEventsApp.deps.json
+D:\Personal files\Advance C#\Codes\video8\ThermostatEventsApp-master\ThermostatEventsApp-master\ThermostatEventsApp\bin\Debug\netcoreapp3.0\ThermostatEventsApp.runtimeconfig.json
+D:\Personal files\Advance C#\Codes\video8\ThermostatEventsApp-master\ThermostatEventsApp-master\ThermostatEventsApp\bin\Debug\netcoreapp3.0\ThermostatEventsApp.runtimeconfig.dev.json
+D:\Personal files\Advance C#\Codes\video8\ThermostatEventsApp-master\ThermostatEventsApp-master\ThermostatEventsApp\bin\Debug\netcoreapp3.0\ThermostatEventsApp.dll
+D:\Personal files\Advance C#\Codes\video8\ThermostatEventsApp-master\ThermostatEventsApp-master\ThermostatEventsApp\bin\Debug\netcoreapp3.0\ThermostatEventsApp.pdb
+D:\Personal files\Advance C#\Codes\video8\ThermostatEventsApp-master\ThermostatEventsApp-master\ThermostatEventsApp\obj\Debug\netcoreapp3.0\ThermostatEventsApp.csproj.AssemblyReference.cache
+D:\Personal files\Advance C#\Codes\video8\ThermostatEventsApp-master\ThermostatEventsApp-master\ThermostatEventsApp\obj\Debug\netcoreapp3.0\ThermostatEventsApp.AssemblyInfoInputs.cache
+D:\Personal files\Advance C#\Codes\video8\ThermostatEventsApp-master\ThermostatEventsApp-master\ThermostatEventsApp\obj\Debug\netcoreapp3.0\ThermostatEventsApp.AssemblyInfo.cs
+D:\Personal files\Advance C#\Codes\video8\ThermostatEventsApp-master\ThermostatEventsApp-master\ThermostatEventsApp\obj\Debug\netcoreapp3.0\ThermostatEventsApp.csproj.CoreCompileInputs.cache
+D:\Personal files\Advance C#\Codes\video8\ThermostatEventsApp-master\ThermostatEventsApp-master\ThermostatEventsApp\obj\Debug\netcoreapp3.0\ThermostatEventsApp.dll
+D:\Personal files\Advance C#\Codes\video8\ThermostatEventsApp-master\ThermostatEventsApp-master\ThermostatEventsApp\obj\Debug\netcoreapp3.0\ThermostatEventsApp.pdb
+D:\Personal files\Advance C#\Codes\video8\ThermostatEventsApp-master\ThermostatEventsApp-master\ThermostatEventsApp\obj\Debug\netcoreapp3.0\ThermostatEventsApp.genruntimeconfig.cache
